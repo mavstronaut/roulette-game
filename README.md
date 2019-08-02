@@ -19,6 +19,7 @@ BONUS:
 
 ## Claims
 - Introduce user authentication (accounts, oAuth), allow for instances (per-server) games to be ongoing. 
+- MongoDB database of objects/documents in database
 - After implementing randomness, we want to have the logic for what to do with that object that is returned. In our case, that is to allow a time period after the item is returned where we can claim the object and add it to our collection.
 - The first person to react to the item (click the button) is able to claim it as "theirs". Others then, would be able to like the item and increase its rating. 
 - Likes and Equally Random: As something becomes more popular, we would like to have a way to randomly roll popular and unpopular (unrated) items from the set of objects available.
@@ -44,6 +45,10 @@ BONUS:
 
 BONUS:
 - $$MONETIZE THIS$$ - Add an actual ability to purchase points.
+- Gain a few points for playing daily && every few hours.
+- Premium/participating content only and exclusive sets? (Royalties mechanism)
+- Bidding war or dueling mode where 2 players put up 2 items for contest?
+- Decentralize this - introduce blockchain component
 
 ### Sources for starting points
 True RNG
