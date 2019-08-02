@@ -35,3 +35,9 @@ BONUS:
 - Allow for the creation of tags by object owners. 
 - Once those items were available on multiple servers / games, we could allow for a rule that once 10 people tag the same thing, the tag is globally visible on the object when rolled.
 - Adding tags to an individual profile, to focus the roulette on objects that seem similar to the individual preference.
+
+
+### Sources for starting points
+True RNG
+- https://gist.github.com/joepie91/7105003c3b26e65efcea63f3db82dfba
+- https://www.npmjs.com/package/true-random
