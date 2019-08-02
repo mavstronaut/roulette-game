@@ -37,6 +37,10 @@ BONUS:
 - Adding tags to an individual profile, to focus the roulette on objects that seem similar to the individual preference.
 
 
+## Roulette game
+- Perform multiple rolls (1 or many set(s) of 3, 5 or 7) with a threshold for matching (100%, 80%, 60%) to win the item matched. 
+- Meant as an alternate form of claiming. Roll for an object, then spend points in order to attempt to claim (max threshold set at 1000% value of item to effectively purchase it, else a maximum of 3, 5, 7 or 10 attempts?)
+
 ### Sources for starting points
 True RNG
 - https://gist.github.com/joepie91/7105003c3b26e65efcea63f3db82dfba
