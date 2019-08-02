@@ -18,6 +18,7 @@ BONUS:
 - Limit rolls to only 12 or 24 per hour. After rolling more, you can listen as a radio-playlist, but not claim objects as your own.
 
 ## Claims
+- Introduce user authentication (accounts, oAuth), allow for instances (per-server) games to be ongoing. 
 - After implementing randomness, we want to have the logic for what to do with that object that is returned. In our case, that is to allow a time period after the item is returned where we can claim the object and add it to our collection.
 - The first person to react to the item (click the button) is able to claim it as "theirs". Others then, would be able to like the item and increase its rating. 
 - Likes and Equally Random: As something becomes more popular, we would like to have a way to randomly roll popular and unpopular (unrated) items from the set of objects available.
@@ -40,6 +41,9 @@ BONUS:
 ## Roulette game
 - Perform multiple rolls (1 or many set(s) of 3, 5 or 7) with a threshold for matching (100%, 80%, 60%) to win the item matched. 
 - Meant as an alternate form of claiming. Roll for an object, then spend points in order to attempt to claim (max threshold set at 1000% value of item to effectively purchase it, else a maximum of 3, 5, 7 or 10 attempts?)
+
+BONUS:
+- $$MONETIZE THIS$$ - Add an actual ability to purchase points.
 
 ### Sources for starting points
 True RNG
